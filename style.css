@@ -49,7 +49,7 @@
 
 .carousel-caption
 {
-	margin-left: 250px;
+	margin-left: 300px;
 	margin-top: -150px;
 } 
 
@@ -83,6 +83,24 @@
 {
 	font-family: 'Merriweather Sans', sans-serif;
 	font-size: 20px;
+}
+
+.modal-body
+{
+	font-family: 'Telex', sans-serif;
+	font-size: 16px;
+	background-color:#ffccff; 
+}
+
+.modal-header
+{
+	background-color: #673AB7;
+	color: floralwhite;
+}
+
+h3
+{
+	font-family: 'Telex', sans-serif;
 }
 
 h2
